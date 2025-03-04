@@ -1,6 +1,6 @@
-# VA SSVF Survey Data Analysis
+# Animal and Plant Health Inspection Services Data Analysis
 
-This repository contains data obtained by the [Data Liberation Project](https://www.data-liberation-project.org/), via a [Freedom of Information Act request](https://www.data-liberation-project.org/requests/ssvf-satisfaction-surveys/) to the US Department of Veterans Affairs (VA) and pre-processed by the Data Liberation Project. 
+This repository contains data obtained by the [Data Liberation Project](https://www.data-liberation-project.org/), via a [Freedom of Information Act request](https://www.data-liberation-project.org/datasets/aphis-inspection-reports/) to the USDA's Animal and Plant Health Inspection Service and pre-processed by the Data Liberation Project. 
 
 ## Summary of Findings
 
@@ -8,7 +8,8 @@ What did we find? Well let me tell you! With **images**! Include at least 5 scre
 
 ## Background and Motivation
 
-Why is this interesting? Why should we be doing this in the first place? What have other people said about this in the news? Why is this relevant?
+The APHIS Inspection Reports dataset enhances transparency and accountability in animal welfare. While the USDA publishes inspection data, it lacks full accessibility and key details. The Data Liberation Project fills this gap by compiling and updating the data in an easy-to-use format.
+
 
 ## Code
 
