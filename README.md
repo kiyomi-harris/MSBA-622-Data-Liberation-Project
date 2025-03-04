@@ -4,7 +4,16 @@ This repository contains data obtained by the [Data Liberation Project](https://
 
 ## Summary of Findings
 
-What did we find? Well let me tell you! With **images**! Include at least 5 screenshots of visualizations!
+What did we find? Well let me tell you! With **images**! 
+
+Here are some screenshots showcasing the analysis:
+
+![Count of Descriptions by Year](screenshot1.png)
+![Inspection count by State and Year](screenshot2.png)
+![Top Species Inspected by State](screenshot3.png)
+![Yearly Count of Most Common Species](screenshot4.png)
+![Noncomplient Items by State](screenshot5.png)
+
 
 ## Background and Motivation
 
@@ -13,10 +22,9 @@ The APHIS Inspection Reports dataset enhances transparency and accountability in
 
 ## Code
 
-This repository contains two Malloy code files:
+This repository contains one Malloy code file:
 
-- [`satisfaction-analysis.malloy`](satisfaction-analysis.malloy), sources all the data tables for the data analysis portion of this repository.
-- [`satisfaction-analysis.malloynb`](satisfaction-analysis.malloynb), performs the analysis piece of the data provided by the Data Liberation Project.
+- [`APHIS_LiberationProject_revised.malloynb`](APHIS_LiberationProject_revised.malloynb), performs the analysis piece of the data provided by the Data Liberation Project.
 
 ## Why Malloy?
 [Malloy](https://malloydata.dev) is an open source semantic data language, and a compelling alternative to pandas, ggplot, and SQL!
